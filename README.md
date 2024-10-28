@@ -19,7 +19,7 @@ Anyway enjoy! Any feedback is greatly appreciated.
 If you need to contact me just ping me in [TLD modding discord](https://discord.com/invite/nb2jQez).
 
 Also thanks [Jods-Its](https://github.com/Jods-Its/Jods-Bountiful-Foraging) for allowing me to use some of the meshes from Modding Toolbox!
-amd Tyler111762 for the idea.
+and Tyler111762 for the idea.
 
 
 
