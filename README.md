@@ -1,4 +1,5 @@
-![screen_126aab4e-eaf5-4e2a-92d1-893633800326_hi](https://github.com/user-attachments/assets/3a9f5f8c-8ed4-4e32-a71f-1e3202007e1a)
+![Uploading ammotoolspic.png…]()
+
 
 ****StalkerAids&Supplements****
 
