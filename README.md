@@ -1,7 +1,4 @@
-![Uploading ammotoolspic.png…]()
-
-
-****StalkerAids&Supplements****
+![list_icon_ammunitioncraftingtools](https://github.com/user-attachments/assets/e2e1a1e6-e78a-4440-875f-bf50194f225c)
 
 Ammunition Crafting Tools is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/)
