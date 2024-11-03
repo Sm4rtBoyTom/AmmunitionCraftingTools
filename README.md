@@ -21,7 +21,7 @@ If you need to contact me just ping me in [TLD modding discord](https://discord.
 Also thanks [Jods-Its](https://github.com/Jods-Its/Jods-Bountiful-Foraging) for allowing me to use some of the meshes from Modding Toolbox!
 and Tyler111762 for the idea.
 
-
+**Big thanks to Elderly-Emre for making turkish localization for AmmunitionCratingTools.**
 
 ### Installation
 
