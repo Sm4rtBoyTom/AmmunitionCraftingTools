@@ -1,7 +1,7 @@
-![list_icon_ammunitioncraftingtools](https://github.com/user-attachments/assets/e2e1a1e6-e78a-4440-875f-bf50194f225c)
+![screen_d0d3b1ed-886a-4dc5-9384-0c10205b5637_hi](https://github.com/user-attachments/assets/32c37c08-5d29-4983-8d82-fb6270b36497)
 
 Ammunition Crafting Tools is a mod for [The Long Dark](https://www.thelongdark.com). 
-A video game developed by [Hinterland Games](https://hinterlandgames.com/)
+A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
 Ammunition Crafting tools mod adds as the name suggests tools for crafting ammunition and noisemakers without the need for ammunition workbench.
 These tools can be found only in two places and requiers you to have The tales from the far territory DLC.
