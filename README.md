@@ -16,7 +16,7 @@ which it takes to craft. Weight may also be an issue for those longer hikes thro
 Anyway enjoy! Any feedback is greatly appreciated.
 If you need to contact me just ping me in [TLD modding discord](https://discord.com/invite/nb2jQez).
 
-Also thanks [Jods-Its](https://github.com/Jods-Its) for allowing me to use some of the meshes from Modding Toolbox!
+Also thanks [Jods-Its](https://github.com/Jods-Its) for allowing me to use some of the meshes from Modding Toolbox! (in older versions)
 and Tyler111762 for the idea.
 
 **Big thanks to Elderly-Emre for making turkish localization for AmmunitionCratingTools.**
