@@ -1,0 +1,44 @@
+{
+    "GAMEPLAY_AmmoTools": {
+        "English": "Ammunition Crafting Tools",
+        "Russian": "",
+        "Turkish": "Mühimmat Üretim Aletleri",
+        "Italian": "",
+        "German": ""
+    },
+    "GAMEPLAY_AmmoToolsDescription": {
+        "English": "Tools used for crafting ammunition in the field.",
+        "Russian": "",
+        "Turkish": "Arazide mühimmat oluşturmak için kullanılan aletler.",
+        "Italian": "",
+        "German": ""
+    },
+    "GAMEPLAY_EmptyShellCasing": {
+        "English": "Flare Shell Casing",
+        "Russian": "",
+        "Turkish": "İşaret Fişeği Kovanı",
+        "Italian": "",
+        "German" : ""
+    },
+    "GAMEPLAY_EmptyShellCasingDescription": {
+        "English": "Caliber 4 metal flare shell casing. Daha fazla işaret fişeği yapmak için kullanılabilir, tekrar kullanılamaz.",
+        "Russian": "",
+        "Turkish": "4 Kalibre işaret fişeği kovanı. ",
+        "Italian": "",
+        "German":  ""
+    },
+    "GAMEPLAY_Magnesium": {
+        "English": "Magnesium powder",
+        "Russian": "",
+        "Turkish": "Magnezyum tozu",
+        "Italian": "",
+        "German": ""
+    },
+    "GAMEPLAY_MagnesiumDescription": {
+        "English": "Powdered Magnesium in a can, highly flammable and reactive. Can be used for crafting or as accelerant. ",
+        "Russian": "",
+        "Turkish": "Bir kutu toz Magnezyum, oldukça yanıcı ve reaktif. Tezgah için veya hızlandırıcı olarak kullanılabilir.",
+        "Italian": "",
+        "German":  ""
+    }
+}

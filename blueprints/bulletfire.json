@@ -1,0 +1,23 @@
+{
+  "Name": "Bullets",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapLead",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_AmmoTools",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Fire",
+  "RequiresLitFire": true,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_Bullet",
+  "CraftedResultCount": 6,
+  "DurationMinutes": 90,
+  "CraftingAudio": "Play_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

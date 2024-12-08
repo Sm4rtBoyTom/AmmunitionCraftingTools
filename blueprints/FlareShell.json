@@ -1,0 +1,37 @@
+{
+  "Name": "FlareShell",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_EmptyShellCasing",
+      "Count": 1,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Magnesium",
+      "Count": 5,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [
+    {
+      "Powder": "POWDER_Gunpowder",
+      "QuantityInKilograms": 0.01
+    },
+    {
+      "Powder": "POWDER_Salt",
+      "QuantityInKilograms": 0.01
+    }
+  ],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_AmmoTools",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "AmmoWorkbench",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_FlareGunAmmoSingle",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 10,
+  "CraftingAudio": "Play_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

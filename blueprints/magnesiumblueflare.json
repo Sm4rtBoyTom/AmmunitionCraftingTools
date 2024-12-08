@@ -1,0 +1,25 @@
+{
+  "Name": "",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_BlueFlare",
+      "Count": 5,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "AmmoWorkbench",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_Magnesium",
+  "CraftedResultCount": 25,
+  "DurationMinutes": 30,
+  "CraftingAudio": "Play_CraftingGunPowder",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}
