@@ -1,0 +1,101 @@
+{
+  "ModToolComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_AmmoTools",
+    "DescriptionLocalizatonId": "GAMEPLAY_AmmoToolsDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2.5,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Tool",
+    "PickUpAudio": "Play_SndInvToolboxMetalSmall",
+    "PutBackAudio": "Play_SndInvToolboxMetalSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_SndInvMetalSmallBreak1",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "EquippedModelPrefab": "",
+    "ImplementationType": "",
+    "EquippingAudio": "",
+    "ToolType": "None",
+    "ToolKind": "None",
+    "DegradeOnUse": 2.0,
+    "Usage": "All",
+    "SkillBonus": 0,
+    "CraftingTimeMultiplier": 1.0,
+    "DegradePerHourCrafting": 2.0,
+    "BreakDown": false,
+    "BreakDownTimeMultiplier": 1.0,
+    "ForceLocks": false,
+    "ForceLockAudio": "",
+    "IceFishingHole": false,
+    "IceFishingHoleDegradeOnUse": 0.0,
+    "IceFishingHoleMinutes": 0,
+    "IceFishingHoleAudio": "",
+    "CarcassHarvesting": false,
+    "MinutesPerKgMeat": 0,
+    "MinutesPerKgFrozenMeat": 0,
+    "MinutesPerHide": 0,
+    "MinutesPerGut": 0,
+    "DegradePerHourHarvesting": 0.0,
+    "StruggleBonus": false,
+    "DamageMultiplier": 0.0,
+    "FleeChanceMultiplier": 0.0,
+    "TapMultiplier": 0.0,
+    "CanPuncture": false,
+    "BleedoutMultiplier": 0.0
+  },
+  "ModRepairableBehaviour": {
+    "Audio": "Play_RepairingMechanical",
+    "Minutes": 90,
+    "Condition": 25,
+    "RequiredTools": [
+      "GEAR_HighQualityTools"
+    ],
+    "MaterialNames": [
+      "GEAR_ScrapMetal",
+      "GEAR_ScrapLead"
+    ],
+    "MaterialCounts": [
+      2,
+      1
+    ]
+  },
+  "ModMillableBehaviour": {
+    "RepairDurationMinutes": 60,
+    "RepairRequiredGear": [
+      "GEAR_ScrapMetal"
+    ],
+    "RepairRequiredGearUnits": [
+      2
+    ],
+    "CanRestoreFromWornOut": true,
+    "RecoveryDurationMinutes": 120,
+    "RestoreRequiredGear": [
+      "GEAR_ScrapMetal",
+      "GEAR_ScrapLead"
+    ],
+    "RestoreRequiredGearUnits": [
+      2,
+      2
+    ],
+    "Skill": "ToolRepair"
+  }
+}

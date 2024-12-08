@@ -1,0 +1,45 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_EmptyShellCasing",
+    "DescriptionLocalizatonId": "GAMEPLAY_EmptyShellCasingDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.01,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Tool",
+    "PickUpAudio": "Play_SndInvPlasticSmall",
+    "PutBackAudio": "Play_SndInvPlasticSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_EMPTYSHELLCASING",
+    "MultipleUnitTextId": "GAMEPLAY_EMPTYSHELLCASING",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_EmptyShellCasing",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}
