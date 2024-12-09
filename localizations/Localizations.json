@@ -1,42 +1,42 @@
 {
     "GAMEPLAY_AmmoTools": {
         "English": "Ammunition Crafting Tools",
-        "Russian": "",
+        "Russian": "Набор для создания боеприпасов",
         "Turkish": "Mühimmat Üretim Aletleri",
 		"Italian": "",
 		"German": ""
     },
     "GAMEPLAY_AmmoToolsDescription": {
         "English": "Tools used for crafting ammunition in the field.",
-        "Russian": "",
+        "Russian": "Инструменты для создания амуниции в полевых условиях.",
         "Turkish": "Arazide mühimmat oluşturmak için kullanılan aletler.",
 		"Italian": "",
 		"German": ""
     },
     "GAMEPLAY_EmptyShellCasing": {
         "English": "Flare Shell Casing",
-        "Russian": "",
+        "Russian": "Гильза сигнальной ракеты",
         "Turkish": "İşaret Fişeği Kovanı",
 		"Italian": "",
 		"German" : ""
     },
     "GAMEPLAY_EmptyShellCasingDescription": {
         "English": "Caliber 4 metal flare shell casing. Can be used to make more flare catridges, it's not reusable.",
-        "Russian": "",
+        "Russian": "Металлическая гильза 4 калибра от сигнальной ракеты. Используйте для создания новых сигнальных ракет. Одноразовая.",
         "Turkish": "4 Kalibre metal işaret fişeği kovanı. Daha fazla işaret fişeği kovanı yapmak için kullanılabilir, tekrar kullanılamaz.",
 		"Italian": "",
 		"German":  ""
     },
     "GAMEPLAY_Magnesium": {
         "English": "Magnesium powder",
-        "Russian": "",
+        "Russian": "Магниевый порошок",
         "Turkish": "Magnezyum tozu",
 		"Italian": "",
 		"German": ""
     },
     "GAMEPLAY_MagnesiumDescription": {
-        "English": "Powdered Magnesium in a can, highly flammable and reactive. Can be used for crafting or as accelerant. ",
-        "Russian": "",
+        "English": "Powdered Magnesium in a can, highly flammable and reactive. Can be used for crafting or as accelerant.",
+        "Russian": "Порошок Магния в банке, крайне огнеопасен. Можно использовать для крафта или как катализатор.",
         "Turkish": "Bir kutu toz Magnezyum, oldukça yanıcı ve reaktif. Tezgahta veya ateş yakarken hızlandırıcı olarak kullanılabilir.",
 		"Italian": "",
 		"German":  ""
