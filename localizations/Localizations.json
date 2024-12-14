@@ -4,14 +4,14 @@
         "Russian": "Набор для создания боеприпасов",
         "Turkish": "Mühimmat Üretim Aletleri",
 		"Italian": "",
-		"German": ""
+		"German": "Munitionsherstellung Werkzeuge"
     },
     "GAMEPLAY_AmmoToolsDescription": {
         "English": "Tools used for crafting ammunition in the field.",
         "Russian": "Инструменты для создания амуниции в полевых условиях.",
         "Turkish": "Arazide mühimmat oluşturmak için kullanılan aletler.",
 		"Italian": "",
-		"German": ""
+		"German": "Werkzeuge zur Herstellung von Munition im Feld."
     },
     "GAMEPLAY_EmptyShellCasing": {
         "English": "Flare Shell Casing",
