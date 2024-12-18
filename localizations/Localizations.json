@@ -3,42 +3,42 @@
         "English": "Ammunition Crafting Tools",
         "Russian": "Набор для создания боеприпасов",
         "Turkish": "Mühimmat Üretim Aletleri",
-		"Italian": "",
+		"Italian": "Attrezzi per la Creazione di Munizioni",
 		"German": "Munitionsherstellung Werkzeuge"
     },
     "GAMEPLAY_AmmoToolsDescription": {
         "English": "Tools used for crafting ammunition in the field.",
         "Russian": "Инструменты для создания амуниции в полевых условиях.",
         "Turkish": "Arazide mühimmat oluşturmak için kullanılan aletler.",
-		"Italian": "",
+		"Italian": "Attrezzi utilizzati per la creazione di munizioni nei campi",
 		"German": "Werkzeuge zur Herstellung von Munition im Feld."
     },
     "GAMEPLAY_EmptyShellCasing": {
         "English": "Flare Shell Casing",
         "Russian": "Гильза сигнальной ракеты",
         "Turkish": "İşaret Fişeği Kovanı",
-		"Italian": "",
+		"Italian": "Bossolo di Razzo",
 		"German" : ""
     },
     "GAMEPLAY_EmptyShellCasingDescription": {
         "English": "Caliber 4 metal flare shell casing. Can be used to make more flare catridges, it's not reusable.",
         "Russian": "Металлическая гильза 4 калибра от сигнальной ракеты. Используйте для создания новых сигнальных ракет. Одноразовая.",
         "Turkish": "4 Kalibre metal işaret fişeği kovanı. Daha fazla işaret fişeği kovanı yapmak için kullanılabilir, tekrar kullanılamaz.",
-		"Italian": "",
+		"Italian": "Un bossolo di razzo calibro 4. Può essere utilizzato per creare più razzi di segnalazione, non è riutilizzabile.",
 		"German":  ""
     },
     "GAMEPLAY_Magnesium": {
         "English": "Magnesium powder",
         "Russian": "Магниевый порошок",
         "Turkish": "Magnezyum tozu",
-		"Italian": "",
+		"Italian": "Magnesio in Polvere",
 		"German": ""
     },
     "GAMEPLAY_MagnesiumDescription": {
         "English": "Powdered Magnesium in a can, highly flammable and reactive. Can be used for crafting or as accelerant.",
         "Russian": "Порошок Магния в банке, крайне огнеопасен. Можно использовать для крафта или как катализатор.",
         "Turkish": "Bir kutu toz Magnezyum, oldukça yanıcı ve reaktif. Tezgahta veya ateş yakarken hızlandırıcı olarak kullanılabilir.",
-		"Italian": "",
+		"Italian": "Magnesio in polvere in un barattolo, altamente infiammabile e reattivo. Può essere utilizzato per la creazione o come accelerante.",
 		"German":  ""
     }
 }
