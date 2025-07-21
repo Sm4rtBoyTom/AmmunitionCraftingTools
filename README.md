@@ -1,4 +1,4 @@
-![screen_19cf7027-7b05-46c4-adbe-32727f7eee0a_hi](https://github.com/user-attachments/assets/badde34a-f01e-4926-808c-cb97d93619fa)
+<img width="3840" height="2160" alt="Thumb_AmmoTools" src="https://github.com/user-attachments/assets/43463082-899f-4ca9-9870-135fb6daea96" />
 
 Ammunition Crafting Tools is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
