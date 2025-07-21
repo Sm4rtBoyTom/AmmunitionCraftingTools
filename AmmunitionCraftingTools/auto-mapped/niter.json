@@ -1,0 +1,60 @@
+{
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_CraftingAcornsGrinding",
+    "Minutes": 30,
+    "YieldCounts": [
+      5
+    ],
+    "YieldNames": [
+      "GEAR_CrushedNiter"
+    ],
+    "RequiredToolNames": [
+      "GEAR_Hammer"
+    ]
+  },
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_Niter",
+    "DescriptionLocalizatonId": "GAMEPLAY_NiterDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 1.0,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvStoneSmall",
+    "PutBackAudio": "Play_SndInvStoneSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Chunk",
+    "MultipleUnitTextId": "Chunks",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [
+      "GEAR_Niter"
+    ],
+    "InstantiateStackItem": "GEAR_Niter",
+    "StackConditionDifferenceConstraint": 100.0
+  }
+}

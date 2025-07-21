@@ -1,0 +1,60 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_Sulfur",
+    "DescriptionLocalizatonId": "GAMEPLAY_SulfurDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 1.0,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvStoneSmall",
+    "PutBackAudio": "Play_SndInvStoneSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_CraftingAcornsGrinding",
+    "Minutes": 30,
+    "YieldCounts": [
+      5
+    ],
+    "YieldNames": [
+      "GEAR_DustingSulfur"
+    ],
+    "RequiredToolNames": [
+      "GEAR_Hammer"
+    ]
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Chunk",
+    "MultipleUnitTextId": "Chunks",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [
+      "GEAR_Sulfur"
+    ],
+    "InstantiateStackItem": "GEAR_Sulfur",
+    "StackConditionDifferenceConstraint": 100.0
+  }
+}

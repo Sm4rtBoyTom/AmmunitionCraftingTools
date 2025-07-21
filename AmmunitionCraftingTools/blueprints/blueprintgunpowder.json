@@ -1,0 +1,35 @@
+{
+  "Name": "GunPowder - AmmoWorkbench",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_Charcoal",
+      "Count": 2,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_StumpRemover",
+      "Count": 1,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_DustingSulfur",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "WorkBench",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_GunPowderCan",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 45,
+  "CraftingAudio": "Play_CraftingGunPowder",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

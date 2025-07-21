@@ -1,0 +1,58 @@
+{
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingMetalSaw",
+    "Minutes": 60,
+    "YieldCounts": [
+      12
+    ],
+    "YieldNames": [
+      "GEAR_ScrapLead"
+    ],
+    "RequiredToolNames": [
+      "GEAR_Hacksaw"
+    ]
+  },
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_LeadPipes",
+    "DescriptionLocalizatonId": "GAMEPLAY_LeadPipesDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 20.0,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvMetalHeavy",
+    "PutBackAudio": "Play_SndInvMetalHeavy",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Lead Pipes",
+    "MultipleUnitTextId": "Lead Pipes",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 100.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_LeadPipes",
+    "StackConditionDifferenceConstraint": 100.0
+  }
+}

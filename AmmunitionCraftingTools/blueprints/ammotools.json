@@ -1,0 +1,25 @@
+{
+  "Name": "Revolver Bullets",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapLead",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_HighQualityTools",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "AmmoWorkbench",
+  "RequiresLitFire": true,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_Bullet",
+  "CraftedResultCount": 6,
+  "DurationMinutes": 120,
+  "CraftingAudio": "Play_CraftingForge",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

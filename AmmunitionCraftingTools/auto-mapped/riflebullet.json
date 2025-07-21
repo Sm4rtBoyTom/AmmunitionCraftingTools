@@ -1,0 +1,47 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_RifleBullet",
+    "DescriptionLocalizatonId": "GAMEPLAY_RifleBulletDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.005,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvBullet",
+    "PutBackAudio": "Play_SndInvBullet",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.3,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Rifle Bullet",
+    "MultipleUnitTextId": "Rifle Bullets",
+    "StackSprite": "ico_units_ammo",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [
+      "GEAR_RifleBullet"
+    ],
+    "InstantiateStackItem": "GEAR_RifleBullet",
+    "StackConditionDifferenceConstraint": 100.0
+  }
+}

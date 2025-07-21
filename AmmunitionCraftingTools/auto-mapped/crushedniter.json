@@ -1,0 +1,56 @@
+{
+  "ModCookableComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_CrushedNiter",
+    "DescriptionLocalizatonId": "GAMEPLAY_CrushedNiterDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.25,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvBottlePlastic",
+    "PutBackAudio": "Play_SndInvBottlePlastic",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Cooking": true,
+    "CookingMinutes": 20,
+    "CookingUnitsRequired": 2,
+    "CookingWaterRequired": 0.5,
+    "CookingResult": "GEAR_StumpRemoverStage1",
+    "BurntMinutes": 30,
+    "Type": "Liquid",
+    "CookingAudio": "",
+    "StartCookingAudio": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "",
+    "MultipleUnitTextId": "",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [
+      "GEAR_CrushedNiter"
+    ],
+    "InstantiateStackItem": "GEAR_CrushedNiter",
+    "StackConditionDifferenceConstraint": 100.0
+  }
+}

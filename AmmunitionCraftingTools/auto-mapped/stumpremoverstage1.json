@@ -1,0 +1,40 @@
+{
+  "ModEvolveBehaviour": {
+    "TargetItemName": "GEAR_StumpRemover",
+    "EvolveHours": 48,
+    "IndoorsOnly": true
+  },
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_StumpRemoverStage1",
+    "DescriptionLocalizatonId": "GAMEPLAY_StumpRemoverStage1Description",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.5,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndInvPlasticSmall",
+    "PutBackAudio": "Play_SndInvPlasticSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.5,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  }
+}

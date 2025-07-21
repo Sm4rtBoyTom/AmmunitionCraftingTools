@@ -1,0 +1,23 @@
+{
+  "Name": "Makeshift Revolver bullet - Forge",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapLead",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_AmmoTools",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Forge",
+  "RequiresLitFire": true,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_Bullet",
+  "CraftedResultCount": 4,
+  "DurationMinutes": 120,
+  "CraftingAudio": "Play_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

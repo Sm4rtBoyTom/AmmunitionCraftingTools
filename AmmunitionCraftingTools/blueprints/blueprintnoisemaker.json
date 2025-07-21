@@ -1,0 +1,35 @@
+{
+  "Name": "NoiseMaker",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_RecycledCan",
+      "Count": 1,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [
+    {
+      "Powder": "POWDER_Gunpowder",
+      "QuantityInKilograms": 0.1
+    }
+  ],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_NoiseMaker",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 45,
+  "CraftingAudio": "Play_CraftingNoisemaker",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

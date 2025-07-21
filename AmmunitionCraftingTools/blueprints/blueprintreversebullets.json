@@ -1,0 +1,25 @@
+{
+  "Name": "Bullet Converter",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_Bullet",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_HighQualityTools",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "AmmoWorkbench",
+  "RequiresLitFire": true,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_RifleBullet",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 30,
+  "CraftingAudio": "Play_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "Makeshift Rifle Ammo - Workbench",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_RifleBullet",
+      "Count": 1,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_RifleAmmoCasing",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [
+    {
+      "Powder": "POWDER_Gunpowder",
+      "QuantityInKilograms": 0.01
+    }
+  ],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_AmmoTools",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Workbench",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_RifleAmmoSingle",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 30,
+  "CraftingAudio": "Play_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}

@@ -1,0 +1,103 @@
+{
+  "ModToolComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_AmmoTools",
+    "DescriptionLocalizatonId": "GAMEPLAY_AmmoToolsDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2.5,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Tool",
+    "PickUpAudio": "Play_SndInvToolboxMetalSmall",
+    "PutBackAudio": "Play_SndInvToolboxMetalSmall",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "EquippedModelPrefab": "",
+    "ImplementationType": "",
+    "EquippingAudio": "",
+    "ToolType": "None",
+    "ToolKind": "None",
+    "DegradeOnUse": 2.0,
+    "Usage": "All",
+    "SkillBonus": 20,
+    "CraftingTimeMultiplier": 0.33,
+    "DegradePerHourCrafting": 0.5,
+    "BreakDown": false,
+    "BreakDownTimeMultiplier": 0.0,
+    "ForceLocks": false,
+    "ForceLockAudio": "",
+    "IceFishingHole": false,
+    "IceFishingHoleDegradeOnUse": 0.0,
+    "IceFishingHoleMinutes": 0,
+    "IceFishingHoleAudio": "",
+    "CarcassHarvesting": false,
+    "MinutesPerKgMeat": 0,
+    "MinutesPerKgFrozenMeat": 0,
+    "MinutesPerHide": 0,
+    "MinutesPerGut": 0,
+    "DegradePerHourHarvesting": 0.0,
+    "StruggleBonus": false,
+    "DamageMultiplier": 0.0,
+    "FleeChanceMultiplier": 0.0,
+    "TapMultiplier": 0.0,
+    "CanPuncture": false,
+    "BleedoutMultiplier": 0.0
+  },
+  "ModMillableBehaviour": {
+    "RepairDurationMinutes": 90,
+    "RepairRequiredGear": [
+      "GEAR_ScrapMetal"
+    ],
+    "RepairRequiredGearUnits": [
+      2
+    ],
+    "CanRestoreFromWornOut": true,
+    "RecoveryDurationMinutes": 240,
+    "RestoreRequiredGear": [
+      "GEAR_HighQualityTools",
+      "GEAR_ScrapMetal",
+      "GEAR_ScrapLead"
+    ],
+    "RestoreRequiredGearUnits": [
+      1,
+      3,
+      3
+    ],
+    "Skill": "Gunsmithing"
+  },
+  "ModRepairableBehaviour": {
+    "Audio": "Play_RepairingMechanical",
+    "Minutes": 120,
+    "Condition": 25,
+    "RequiredTools": [
+      "GEAR_HighQualityTools"
+    ],
+    "MaterialNames": [
+      "GEAR_ScrapMetal",
+      "GEAR_ScrapLead"
+    ],
+    "MaterialCounts": [
+      2,
+      1
+    ]
+  }
+}

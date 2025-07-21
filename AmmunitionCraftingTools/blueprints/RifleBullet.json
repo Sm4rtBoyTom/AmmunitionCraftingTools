@@ -1,0 +1,25 @@
+{
+  "Name": "Rifle Bullet",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapLead",
+      "Count": 1,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_HighQualityTools",
+  "OptionalTools": [
+    "GEAR_AmmoTools"
+  ],
+  "RequiredCraftingLocation": "AmmoWorkbench",
+  "RequiresLitFire": true,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_RifleBullet",
+  "CraftedResultCount": 6,
+  "DurationMinutes": 180,
+  "CraftingAudio": "PLAY_CraftingMetalAmmo",
+  "AppliedSkill": "Gunsmithing",
+  "ImprovedSkill": "Gunsmithing"
+}
