@@ -3,8 +3,10 @@
 Ammunition Crafting Tools is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
-Ammunition Crafting tools mod adds as the name suggests tools for crafting ammunition and noisemakers without the need for ammunition workbench.
-These tools can be found in several places across Great Bear Island. (some more hidden than others)
+Ammunition Crafting tools mod aims to rewamp the whole process of making ammunition by making it harder but enjoyable. Before crafting anything you first need to find high quality tools or ammunition tools to
+speed up the process. Rifle ammunition now has it's own bullet type which is harder to and takes more time to craft. Noisemakers can now be crafted anywhere so they have at least early game use. To counter
+the need for more gunpowder and scrap lead, you can now find lead pipes scattered across the island, mostly around industrial sites and inside mines. Additionally this mod introduces two new types of minerals, 
+the first mineral is sulfur which can be grinded into dusting sulfur. The second mineral is niter which can be made into stump remover by a simple few step process.
 
 Anyway enjoy! Any feedback is greatly appreciated.
 If you need to contact me just ping me in [TLD modding discord](https://discord.com/invite/nb2jQez).
