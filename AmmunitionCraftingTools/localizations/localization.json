@@ -2,7 +2,7 @@
   "GAMEPLAY_RifleBullet": {
     "English": ".303 British Rifle Bullet",
     "German": "",
-    "Russian": "",
+    "Russian": "Британская винтовочная пуля калибра .303",
     "French (France)": "",
     "Japanese": ".303ブリティッシュ・ライフル弾",
     "Korean": "",
@@ -23,7 +23,7 @@
   "GAMEPLAY_RifleBulletDescription": {
     "English": "Basic lead bullet, suitable for .303 British caliber cartridges.",
     "German": "",
-    "Russian": "",
+    "Russian": "Обычная свинцовая пуля, подходящая для патронов британского калибра .303",
     "French (France)": "",
     "Japanese": ".303ブリティッシュ弾用薬莢に適合する簡素な鉛の弾丸。",
     "Korean": "",
@@ -86,7 +86,7 @@
   "GAMEPLAY_LeadPipeSingle": {
     "English": "Lead Pipe",
     "German": "",
-    "Russian": "",
+    "Russian": "Свинцовая труба",
     "French (France)": "",
     "Japanese": "鉛のパイプ",
     "Korean": "",
@@ -107,7 +107,7 @@
   "GAMEPLAY_LeadPipeSingleDescription": {
     "English": "A single lead pipe used for plumbing. Can be harvested into lead scrap.",
     "German": "",
-    "Russian": "",
+    "Russian": "Свинцовая труба, используемая для водопровода. Одна штука. Может быть переработана в свинцовый лом.",
     "French (France)": "",
     "Japanese": "配管工事用のシンプルな鉛のパイプ。解体して鉛くずを入手することができる。",
     "Korean": "",
@@ -128,7 +128,7 @@
   "GAMEPLAY_LeadPipes": {
     "English": "Lead Pipes",
     "German": "",
-    "Russian": "",
+    "Russian": "Свинцовые трубы",
     "French (France)": "",
     "Japanese": "鉛のパイプの束",
     "Korean": "",
@@ -149,7 +149,7 @@
   "GAMEPLAY_LeadPipesDescription": {
     "English": "Bunch of spare lead pipes used for plumbing, really heavy. Can be harvested into scrap metal.",
     "German": "",
-    "Russian": "",
+    "Russian": "Куча запасных свинцовых труб, используемых для водопровода, очень тяжелые. Можно переработать в металлолом.",
     "French (France)": "",
     "Japanese": "配管工事用の予備の鉛パイプの束、実に重い。解体して金属くずを入手できる。",
     "Korean": "",
@@ -170,7 +170,7 @@
   "GAMEPLAY_Sulfur": {
     "English": "Sulfur Chunk",
     "German": "",
-    "Russian": "",
+    "Russian": "Кусок серы",
     "French (France)": "",
     "Japanese": "硫黄の塊",
     "Korean": "",
@@ -191,7 +191,7 @@
   "GAMEPLAY_SulfurDescription": {
     "English": "Chunk of rock sulfur, can be grinded into fine powder and used to make Gunpowder.",
     "German": "",
-    "Russian": "",
+    "Russian": "Кусок каменной серы можно измельчить в мелкий порошок и использовать для изготовления пороха.",
     "French (France)": "",
     "Japanese": "天然硫黄の塊、細かく粉砕すれば火薬の製作に使える。",
     "Korean": "",
@@ -212,7 +212,7 @@
   "GAMEPLAY_Niter": {
     "English": "Niter Chunk",
     "German": "",
-    "Russian": "",
+    "Russian": "Кусок селитры",
     "French (France)": "",
     "Japanese": "硝石の塊",
     "Korean": "",
@@ -233,7 +233,7 @@
   "GAMEPLAY_NiterDescription": {
     "English": "Chunk of Niter, mineral of Potassium Nitrate, KNO3.",
     "German": "",
-    "Russian": "",
+    "Russian": "Кусок селитры, минерала, представляющего собой нитрат калия, KNO3.",
     "French (France)": "",
     "Japanese": "硝石の塊、硝酸カリウム（KNO3）の鉱石だ。",
     "Korean": "",
@@ -254,7 +254,7 @@
   "GAMEPLAY_CrushedNiter": {
     "English": "Niter Powder",
     "German": "",
-    "Russian": "",
+    "Russian": "Порошок селитры",
     "French (France)": "",
     "Japanese": "粉末硝石",
     "Korean": "",
@@ -275,7 +275,7 @@
   "GAMEPLAY_CrushedNiterDescription": {
     "English": "Crushed Niter, Powdered form of Potassium Nitrate or KNO3.",
     "German": "",
-    "Russian": "",
+    "Russian": "Измельченная селитра, порошкообразная форма нитрата калия или KNO3.",
     "French (France)": "",
     "Japanese": "砕かれた硝石、硝酸カリウム（KNO3）の粉末だ。",
     "Korean": "",
@@ -296,7 +296,7 @@
   "GAMEPLAY_StumpRemoverStage1": {
     "English": "Uncrystallized Stump Remover",
     "German": "",
-    "Russian": "",
+    "Russian": "Некристаллизованное средство для удаления пней",
     "French (France)": "",
     "Japanese": "未結晶の根こそぎ除草剤",
     "Korean": "",
@@ -317,7 +317,7 @@
   "GAMEPLAY_StumpRemoverStage1Description": {
     "English": "Uncrystallized Stump Remover, Let it cool for a few days in order to crystallize.",
     "German": "",
-    "Russian": "",
+    "Russian": "Некристаллизованное средство для удаления пней. Дайте ей остыть в течение нескольких дней, чтобы она кристаллизовалась.",
     "French (France)": "",
     "Japanese": "未結晶の根こそぎ除草剤、結晶化させるために数日間冷やそう。",
     "Korean": "",
@@ -336,4 +336,5 @@
     "Ukrainian": ""
   }
 }
+
 
