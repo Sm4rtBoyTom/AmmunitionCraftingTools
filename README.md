@@ -8,6 +8,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 - Ammunition crafting tools now requires Quality Tools OR Ammunition Tools. Rifle Bullets are a separate recipe from Revolver Bullets.
 - Noisemakers can be crafted anywhere and available from the start. Gunpowder can be crafted at any Work Bench. Both type of Bullets can be crafted at a Forge, but it's more time-consuming and less efficient than using the Ammunition Work Bench.
 - Adds the ability to sharpen/repair manufactured arrows using whetstones.
+- Through Mod Settings, the spawn chance for Niter and Sulfur can be altered, the textures for ammunition boxes and revolver bullets can be changed to a custom-made one, and the ability to sharpen Manufactured Arrows can be disabled.
 
 Anyway enjoy! Any feedback is greatly appreciated.
 If you need to contact me just ping me in [TLD modding discord](https://discord.com/invite/nb2jQez).
