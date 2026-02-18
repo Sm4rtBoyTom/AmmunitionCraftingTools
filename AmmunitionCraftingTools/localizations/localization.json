@@ -147,15 +147,15 @@
     "Ukrainian": ""
   },
   "GAMEPLAY_LeadPipesDescription": {
-    "English": "Bunch of spare lead pipes used for plumbing, really heavy. Can be harvested into scrap metal.",
+    "English": "Bunch of spare lead pipes used for plumbing, really heavy. Can be harvested into lead scrap.",
     "German": "",
     "Russian": "Куча запасных свинцовых труб, используемых для водопровода, очень тяжелые. Можно переработать в металлолом.",
     "French (France)": "",
-    "Japanese": "配管工事用の予備の鉛パイプの束、実に重い。解体して金属くずを入手できる。",
+    "Japanese": "配管工事用の予備の鉛パイプの束、実に重い。解体して鉛くずを入手することができる。",
     "Korean": "",
-    "Simplified Chinese": "一堆用于管道的备用铅管，非常重。可回收为废金属。",
+    "Simplified Chinese": "一堆用于管道的备用铅管，非常重。可回收为废鉛。",
     "Swedish": "",
-    "Traditional Chinese": "一堆鉛製管子，重量極重。可收穫取得廢金屬。",
+    "Traditional Chinese": "一堆鉛製管子，重量極重。可收穫取得廢鉛。",
     "Turkish": "Tesisat için kullanılan bir sürü yedek kurşun boru, gerçekten ağır. Hurda metal olarak toplanabilir.",
     "Norwegian": "",
     "Spanish (Spain)": "",
@@ -336,6 +336,7 @@
     "Ukrainian": ""
   }
 }
+
 
 
 
