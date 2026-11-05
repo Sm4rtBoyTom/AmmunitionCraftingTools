@@ -3,6 +3,7 @@
 Ammunition Crafting Tools is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
+# NOTICE! Further development of this mod has been cancelled. It will be replaced by a different mod in the upcoming year.
 
 - Adds Niter and Sulfur to stone spawns in caves, which can be processed into gunpowder ingredients. Adds lead pipes to increase the amount of available lead, found in industrial sites and rarely in other locations. Adds Ammunition Tools, which can speed up the process of making bullets.
 - Ammunition crafting tools now requires Quality Tools OR Ammunition Tools. Rifle Bullets are a separate recipe from Revolver Bullets.
